@@ -1,15 +1,15 @@
 # Student Notes CRUD Micro-App (MERN Stack)
 
-**Student ID:** 2026204006
-**GitHub Repository:** <ADD YOUR REPO LINK HERE>
+Student ID: 2026204006
+GitHub Repository: https://github.com/Anmol-S23/notes-app-mern-lab.git
 
 A full-stack notes management app built with MongoDB, Express, React (Vite), and Node.js.
 
 ## Tech Stack
 
-- **Backend:** Node.js, Express, Mongoose
-- **Frontend:** React (Vite), Axios
-- **Database:** MongoDB (local, `mongodb://localhost:27017/notes_db`)
+- Backend: Node.js, Express, Mongoose
+- Frontend: React (Vite), Axios
+- Database: MongoDB (local, `mongodb://localhost:27017/notes_db`)
 
 ## Prerequisites
 
